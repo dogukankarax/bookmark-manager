@@ -1,0 +1,1 @@
+CREATE INDEX "bookmarks_user_id_idx" ON "bookmarks" USING btree ("user_id");
